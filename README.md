@@ -3,8 +3,11 @@ This is a Unity project developed for Oculus Quest 2 headset.
 The build may fail in the first try. Try again if the build fails.
 
 In game controls: 
+
   Return to main menu:     X + Y button
+  
   Toggle Map On/Off  :     Index triggers
+  
   Movements          :     Left Thumbstick
 
 Main Objective: Go to the cave on the upper-left side of the map. 
